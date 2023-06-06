@@ -12,7 +12,7 @@ O intuito do projeto é de *vender* a ferramenta Visual Studio Code, apresentand
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/121033909/218164533-77645be5-5401-4f64-9675-d94dd2a28525.png" height="700" />
+  <img src="https://user-images.githubusercontent.com/121033909/218164533-77645be5-5401-4f64-9675-d94dd2a28525.png#vitrinedev" height="700" />
   
 </div>
 
