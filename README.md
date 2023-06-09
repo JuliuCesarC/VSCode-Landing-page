@@ -9,10 +9,11 @@ O intuito do projeto é de *vender* a ferramenta Visual Studio Code, apresentand
 | :sparkles: Nome        | **VS Code Landing Page**
 | :label: Tecnologias | React, NextJS, TypeScript, Styled Components
 | :rocket: URL         | https://vs-code-landing-page.vercel.app/
+| :fire: Desafio     | https://vs-code-landing-page.vercel.app/
 
-<div align="center">
-
-  <img src="https://user-images.githubusercontent.com/121033909/218164533-77645be5-5401-4f64-9675-d94dd2a28525.png#vitrinedev" height="700" />
+<div align="center" height="700">
+  
+![landing-code](https://github.com/JuliuCesarC/VSCode-Landing-page/assets/106402577/67a06c4c-8862-4479-a9f7-6fdc2565401b.png#vitrinedev)
   
 </div>
 
