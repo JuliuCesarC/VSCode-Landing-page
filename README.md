@@ -11,11 +11,7 @@ O intuito do projeto é de *vender* a ferramenta Visual Studio Code, apresentand
 | :rocket: URL         | https://vs-code-landing-page.vercel.app/
 | :fire: Desafio     | https://vs-code-landing-page.vercel.app/
 
-<div align="center" height="700">
- 
-![landing-code](https://github.com/JuliuCesarC/VSCode-Landing-page/assets/106402577/4eebaa9a-d5b0-4211-8014-89359609c44f.png#vitrinedev)
-  
-</div>
+![banner-principal](https://github.com/JuliuCesarC/VSCode-Landing-page/assets/106402577/b4cd764f-773c-4d5b-a1dd-6b52de92b4c3.png#vitrinedev)
 
 ## Design
 
